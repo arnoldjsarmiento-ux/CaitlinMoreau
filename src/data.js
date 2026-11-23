@@ -2,14 +2,14 @@ import shophub from './assets/shophub.png'
 import couponManagement from './assets/coupon-management.png'
 
 export const profile = {
-  name: 'Catlin Jane',
-  initials: 'CJ',
+  name: 'Caitlin Moreau',
+  initials: 'CM',
   role: 'Full Stack Developer',
   roles: ['Full Stack Developer', 'API Architect', 'React Engineer', 'Clean Code Advocate'],
   tagline:
     'I design and build fast, scalable web products end to end, from database schemas and APIs to polished, accessible interfaces.',
   location: 'Remote · Worldwide',
-  email: 'hello@catlinjane.dev',
+  email: 'hello@caitlinmoreau.dev',
   socials: [
     { label: 'GitHub', href: 'https://github.com/' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/' },
